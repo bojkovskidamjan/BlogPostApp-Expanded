@@ -17,7 +17,7 @@ To run this Django project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/django-blog.git
+   git clone https://github.com/bojkovskidamjan/BlogPostApp-Expanded.git
 
 2. Apply the database migrations to create the necessary database tables:
 
